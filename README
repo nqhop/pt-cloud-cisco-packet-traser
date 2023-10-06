@@ -1,0 +1,2 @@
+git config user.name = "new_username"
+git config user.email= "newEmail@gmail.com"
